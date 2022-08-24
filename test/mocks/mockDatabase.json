@@ -1,0 +1,22 @@
+[
+    {
+        "_id": 1,
+        "creditType": "creditType.SMS",
+        "credit": 30
+    },
+    {
+        "_id": 1,
+        "creditType": "creditType.SMS",
+        "credit": 20
+    },
+    {
+        "_id": 2,
+        "creditType": "creditType.WHATSAPP",
+        "credit": 30
+    },
+    {
+        "_id": 2,
+        "creditType": "creditType.EMAIL",
+        "credit": 65
+    }
+]
